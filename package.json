@@ -1,0 +1,26 @@
+{
+  "name": "JSLogger",
+  "version": "0.0.0",
+  "description": "A simple JavaScript logger utility",
+  "main": "JSLogger.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troyef/JSLogger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troyef/JSLogger/issues"
+  },
+  "homepage": "https://github.com/troyef/JSLogger"
+}
